@@ -1,1 +1,2 @@
-# NewRepo
+
+This Repo offers <a href="https://www.codeproject.com/Tips/5376943/Getting-Started-with-Playwright-using-Visual-Studi">a pragmatic introduction to Playwright</a>, covering its installation, integration with Visual Studio 2022, and the setup of a C#/NUnit project. The focus is on code generation and test recording using Playwright's Codegen. The article includes instructions for installing essential components and demonstrates the automation process by creating a test case on a customer-facing e-commerce website.
